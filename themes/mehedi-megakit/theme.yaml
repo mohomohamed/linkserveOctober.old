@@ -1,0 +1,9 @@
+name: Linkserve
+description: 'Linkserve Official Website'
+author: 'Mohamed Moho'
+homepage: 'https://linkserve.com.mv'
+code: linkserve
+form: config/fields.yaml
+require:
+    - RainLab.Blog
+    - Martin.Forms

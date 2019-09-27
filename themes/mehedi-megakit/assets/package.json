@@ -1,0 +1,17 @@
+{
+  "name": "linkserve",
+  "version": "1.0.0",
+  "description": "linkserve official",
+  "main": "index.js",
+  "scripts": {
+    "node-sass": "node-sass --output-style compressed -o dist/css src/scss"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.12.0"
+  },
+  "devDependencies": {
+    "node-sass": "4.5.0"
+  }
+}
