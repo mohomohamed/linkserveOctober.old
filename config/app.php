@@ -41,7 +41,7 @@ return [
     |
     */
 
-    'url' => 'https://linkserveoctober.herokuapp.com/',
+    'url' => 'http://linkserveoctober.test/',
 
     /*
     |--------------------------------------------------------------------------
