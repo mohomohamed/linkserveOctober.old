@@ -1,0 +1,21 @@
+1569628476a:1:{s:8:"home.htm";a:12:{s:8:"fileName";s:8:"home.htm";s:7:"content";s:392:"title = "Home"
+url = "/"
+layout = "cms-layout"
+description = "Main Page."
+meta_title = "Stay Safe. Stay Connected."
+meta_description = "business,company,agency"
+is_hidden = 0
+==
+{% partial 'home/slider' %}
+{% partial 'home/intro' %}
+{% partial 'home/about' %}
+<!-- {% partial 'home/counter' %} -->
+{% partial 'home/solutions' %}
+{% partial 'home/cta' %}
+{% partial 'home/contacthome' %}";s:5:"mtime";i:1569623208;s:6:"markup";s:214:"{% partial 'home/slider' %}
+{% partial 'home/intro' %}
+{% partial 'home/about' %}
+<!-- {% partial 'home/counter' %} -->
+{% partial 'home/solutions' %}
+{% partial 'home/cta' %}
+{% partial 'home/contacthome' %}";s:4:"code";N;s:5:"title";s:4:"Home";s:3:"url";s:1:"/";s:6:"layout";s:10:"cms-layout";s:11:"description";s:10:"Main Page.";s:10:"meta_title";s:26:"Stay Safe. Stay Connected.";s:16:"meta_description";s:23:"business,company,agency";s:9:"is_hidden";s:1:"0";}}
