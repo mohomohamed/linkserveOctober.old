@@ -1,0 +1,274 @@
+1569630470a:1:{s:14:"contact-us.htm";a:10:{s:8:"fileName";s:14:"contact-us.htm";s:7:"content";s:5763:"title = "Contact Us"
+url = "/contact-us"
+layout = "cms-layout"
+is_hidden = 0
+
+[genericForm]
+messages_success = "Your form was successfully submitted"
+messages_errors = "There were errors with your submission"
+inline_errors = "disabled"
+sanitize_data = "disabled"
+anonymize_ip = "disabled"
+recaptcha_theme = "light"
+recaptcha_type = "image"
+recaptcha_size = "normal"
+==
+<!-- Section Page Intro Start -->
+<section class="page-title bg-1">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block text-center">
+                    <span class="text-white">Contact Us</span>
+                    <h1 class="text-capitalize mb-4 text-lg">Get in Touch</h1>
+                    <ul class="list-inline">
+                        <li class="list-inline-item"><a href="{{ 'home'|page }}" class="text-white">Home</a></li>
+                        <li class="list-inline-item"><span class="text-white">/</span></li>
+                        <li class="list-inline-item"><a href="#" class="text-white-50">Contact Us</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Section Page Intro End -->
+<!-- Contact Form Start -->
+<section class="contact-form-wrap section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-12 col-sm-12">
+                 {% component 'genericForm' %}
+            </div>
+
+            <div class="col-lg-5 col-sm-12">
+                <div class="contact-content pl-lg-5 mt-5 mt-lg-0">
+                    <span class="text-muted">We are Professionals</span>
+                    
+                    <p>Link Serve owns 05 outlets 02 located in Male’, 01 in Hulhumale, 01 at Addu City and 01 in Hdh. Kulhudhuffishi. Across all the chains of Link Serve we maintain our relationship as ONE FAMILY Shaping Technology in Maldives.</p>
+                    <h2 class="mb-5 mt-2">Don’t Hesitate to contact with us for any kind of information</h2>
+
+                    <ul class="address-block list-unstyled">
+                        <li>
+                            <i class="ti-direction mr-3"></i>North Main Street,Brooklyn Australia
+                        </li>
+                        <li>
+                            <i class="ti-email mr-3"></i>Email: contact@mail.com
+                        </li>
+                        <li>
+                            <i class="ti-mobile mr-3"></i>Phone:+88 01672 506 744
+                        </li>
+                    </ul>
+
+                    <ul class="social-icons list-inline mt-5">
+                        <li class="list-inline-item">
+                            <a href="http://www.themefisher.com"><i class="fab fa-facebook-f"></i></a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="http://www.themefisher.com"><i class="fab fa-twitter"></i></a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="http://www.themefisher.com"><i class="fab fa-linkedin-in"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Contact Form End -->
+
+<section class="wrapper style5">
+							<div class="inner" style="text-align:center">
+
+								<style>
+
+								.shopavatar{
+									vertical-align: middle;
+									width: 250px;
+									height: 250px;
+									border-radius: 50%;
+								}
+
+								</style>
+
+								<div class="wrapper">
+									<h2>Goodness Shop - Male'</h2> <img src="{{ 'assets/images/locations/outside-goodness.jpg'|theme}}" alt="goodness" class="shopavatar">
+									<p>M. Goodness, Kanbaa Aisaarani Hingun, Male', Maldives<br>
+										sales@linkserve.com.mv<br>
+										+960 300 3000</p>
+										<hr>
+
+								<h2>Service Centre Male'</h2><img src="{{ 'assets/images/locations/outside-servicecenter.jpg'|theme}}" alt="servicecenter" class="shopavatar">
+								<p>H.Buruneege Dhekunuge, 1st Floor, Apartment A/B <br> Hadheebee Magu, Male' (20084)<br>
+								servicecenter@linkserve.com.mv<br>
+								+960 334 4555</p>
+								<hr>
+
+
+								<h2>Shop 2 - Male'</h2> <img src="{{ 'assets/images/locations/outside-shop2.jpg'|theme}}" alt="shop2" class="shopavatar">
+								<p>M. Goodness, Kanbaa Aisaarani Hingun, Male', Maldives<br>
+								sales@linkserve.com.mv<br>
+								+960 300 3000</p>
+								<hr>
+
+								<h2>Linkserve Plus - Hulhumale Shop</h2><img src="{{ 'assets/images/locations/outside-linkserveplus.jpg'|theme}}" alt="hulhumaleshop" class="shopavatar">
+								<p>Maavaharu-8, Nirolhu Magu -08 Goalhi<br>
+								sales@linkserve.com.mv<br>
+								+960 335 2000</p>
+								<hr>
+
+								<h2>Hdh. Kulhudhuffishi Shop</h2><img src="{{ 'assets/images/locations/outside-kulhudhufushi.jpg'|theme}}" alt="Kulhudhuffishishop" class="shopavatar">
+								<p>Hdh. Kulhudhufushi<br>
+								sales@linkserve.com.mv<br>
+								+960 300 3000</p>
+								<hr>
+
+								<h2>Linkserve Plus - Addu City</h2><img src="{{ 'assets/images/locations/outside-adducity.jpg'|theme}}" alt="addushop" class="shopavatar">
+								<p>Cocade, Lily Magu, S.Hithadhoo<br>
+								sales@linkserve.com.mv<br>
+								+960 688 3000</p>
+							</div>
+
+							</div>
+						</section>
+
+
+
+
+<!-- Google Map Start -->
+<!-- <div class="google-map">
+    <div id="map"></div>
+</div> -->
+<!-- Google Map End -->
+
+{# Google Map #}
+<!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAkeLMlsiwzp6b3Gnaxd86lvakimwGA6UA&callback=initMap"></script> -->";s:5:"mtime";i:1569622913;s:6:"markup";s:5394:"<!-- Section Page Intro Start -->
+<section class="page-title bg-1">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block text-center">
+                    <span class="text-white">Contact Us</span>
+                    <h1 class="text-capitalize mb-4 text-lg">Get in Touch</h1>
+                    <ul class="list-inline">
+                        <li class="list-inline-item"><a href="{{ 'home'|page }}" class="text-white">Home</a></li>
+                        <li class="list-inline-item"><span class="text-white">/</span></li>
+                        <li class="list-inline-item"><a href="#" class="text-white-50">Contact Us</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Section Page Intro End -->
+<!-- Contact Form Start -->
+<section class="contact-form-wrap section">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6 col-md-12 col-sm-12">
+                 {% component 'genericForm' %}
+            </div>
+
+            <div class="col-lg-5 col-sm-12">
+                <div class="contact-content pl-lg-5 mt-5 mt-lg-0">
+                    <span class="text-muted">We are Professionals</span>
+                    
+                    <p>Link Serve owns 05 outlets 02 located in Male’, 01 in Hulhumale, 01 at Addu City and 01 in Hdh. Kulhudhuffishi. Across all the chains of Link Serve we maintain our relationship as ONE FAMILY Shaping Technology in Maldives.</p>
+                    <h2 class="mb-5 mt-2">Don’t Hesitate to contact with us for any kind of information</h2>
+
+                    <ul class="address-block list-unstyled">
+                        <li>
+                            <i class="ti-direction mr-3"></i>North Main Street,Brooklyn Australia
+                        </li>
+                        <li>
+                            <i class="ti-email mr-3"></i>Email: contact@mail.com
+                        </li>
+                        <li>
+                            <i class="ti-mobile mr-3"></i>Phone:+88 01672 506 744
+                        </li>
+                    </ul>
+
+                    <ul class="social-icons list-inline mt-5">
+                        <li class="list-inline-item">
+                            <a href="http://www.themefisher.com"><i class="fab fa-facebook-f"></i></a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="http://www.themefisher.com"><i class="fab fa-twitter"></i></a>
+                        </li>
+                        <li class="list-inline-item">
+                            <a href="http://www.themefisher.com"><i class="fab fa-linkedin-in"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Contact Form End -->
+
+<section class="wrapper style5">
+							<div class="inner" style="text-align:center">
+
+								<style>
+
+								.shopavatar{
+									vertical-align: middle;
+									width: 250px;
+									height: 250px;
+									border-radius: 50%;
+								}
+
+								</style>
+
+								<div class="wrapper">
+									<h2>Goodness Shop - Male'</h2> <img src="{{ 'assets/images/locations/outside-goodness.jpg'|theme}}" alt="goodness" class="shopavatar">
+									<p>M. Goodness, Kanbaa Aisaarani Hingun, Male', Maldives<br>
+										sales@linkserve.com.mv<br>
+										+960 300 3000</p>
+										<hr>
+
+								<h2>Service Centre Male'</h2><img src="{{ 'assets/images/locations/outside-servicecenter.jpg'|theme}}" alt="servicecenter" class="shopavatar">
+								<p>H.Buruneege Dhekunuge, 1st Floor, Apartment A/B <br> Hadheebee Magu, Male' (20084)<br>
+								servicecenter@linkserve.com.mv<br>
+								+960 334 4555</p>
+								<hr>
+
+
+								<h2>Shop 2 - Male'</h2> <img src="{{ 'assets/images/locations/outside-shop2.jpg'|theme}}" alt="shop2" class="shopavatar">
+								<p>M. Goodness, Kanbaa Aisaarani Hingun, Male', Maldives<br>
+								sales@linkserve.com.mv<br>
+								+960 300 3000</p>
+								<hr>
+
+								<h2>Linkserve Plus - Hulhumale Shop</h2><img src="{{ 'assets/images/locations/outside-linkserveplus.jpg'|theme}}" alt="hulhumaleshop" class="shopavatar">
+								<p>Maavaharu-8, Nirolhu Magu -08 Goalhi<br>
+								sales@linkserve.com.mv<br>
+								+960 335 2000</p>
+								<hr>
+
+								<h2>Hdh. Kulhudhuffishi Shop</h2><img src="{{ 'assets/images/locations/outside-kulhudhufushi.jpg'|theme}}" alt="Kulhudhuffishishop" class="shopavatar">
+								<p>Hdh. Kulhudhufushi<br>
+								sales@linkserve.com.mv<br>
+								+960 300 3000</p>
+								<hr>
+
+								<h2>Linkserve Plus - Addu City</h2><img src="{{ 'assets/images/locations/outside-adducity.jpg'|theme}}" alt="addushop" class="shopavatar">
+								<p>Cocade, Lily Magu, S.Hithadhoo<br>
+								sales@linkserve.com.mv<br>
+								+960 688 3000</p>
+							</div>
+
+							</div>
+						</section>
+
+
+
+
+<!-- Google Map Start -->
+<!-- <div class="google-map">
+    <div id="map"></div>
+</div> -->
+<!-- Google Map End -->
+
+{# Google Map #}
+<!-- <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAkeLMlsiwzp6b3Gnaxd86lvakimwGA6UA&callback=initMap"></script> -->";s:4:"code";N;s:5:"title";s:10:"Contact Us";s:3:"url";s:11:"/contact-us";s:6:"layout";s:10:"cms-layout";s:9:"is_hidden";s:1:"0";s:11:"genericForm";a:8:{s:16:"messages_success";s:36:"Your form was successfully submitted";s:15:"messages_errors";s:38:"There were errors with your submission";s:13:"inline_errors";s:8:"disabled";s:13:"sanitize_data";s:8:"disabled";s:12:"anonymize_ip";s:8:"disabled";s:15:"recaptcha_theme";s:5:"light";s:14:"recaptcha_type";s:5:"image";s:14:"recaptcha_size";s:6:"normal";}}}

@@ -1,0 +1,92 @@
+1569630470a:1:{s:12:"services.htm";a:9:{s:8:"fileName";s:12:"services.htm";s:7:"content";s:1576:"title = "Solutions"
+url = "/solutions"
+layout = "cms-layout"
+is_hidden = 0
+==
+<!-- Section Page Intro Start -->
+<section class="page-title bg-1">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block text-center">
+                    <span class="text-white">Our services</span>
+                    <h1 class="text-capitalize mb-4 text-lg">What We Do</h1>
+                    <ul class="list-inline">
+                        <li class="list-inline-item"><a href="{{ 'home'|page }}" class="text-white">Home</a></li>
+                        <li class="list-inline-item"><span class="text-white">/</span></li>
+                        <li class="list-inline-item"><a href="#" class="text-white-50">Our services</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Section Page Intro End -->
+
+
+{% partial 'home/solutions' %}
+
+
+
+
+
+<!-- Section CTA Start -->
+<section class="cta-2">
+	<div class="container">
+		<div class="cta-block p-5 rounded">
+			<div class="row justify-content-center align-items-center ">
+				<div class="col-lg-7">
+					<span class="text-color">For Every type business</span>
+					<h2 class="mt-2 text-white">Entrust Your Project to Our Best Team of Professionals</h2>
+				</div>
+				<div class="col-lg-4">
+					<a href="{{ 'contact-us' |page}}" class="btn btn-main btn-round-full float-right">Contact Us</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- Section CTA End -->";s:5:"mtime";i:1569623295;s:6:"markup";s:1498:"<!-- Section Page Intro Start -->
+<section class="page-title bg-1">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="block text-center">
+                    <span class="text-white">Our services</span>
+                    <h1 class="text-capitalize mb-4 text-lg">What We Do</h1>
+                    <ul class="list-inline">
+                        <li class="list-inline-item"><a href="{{ 'home'|page }}" class="text-white">Home</a></li>
+                        <li class="list-inline-item"><span class="text-white">/</span></li>
+                        <li class="list-inline-item"><a href="#" class="text-white-50">Our services</a></li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- Section Page Intro End -->
+
+
+{% partial 'home/solutions' %}
+
+
+
+
+
+<!-- Section CTA Start -->
+<section class="cta-2">
+	<div class="container">
+		<div class="cta-block p-5 rounded">
+			<div class="row justify-content-center align-items-center ">
+				<div class="col-lg-7">
+					<span class="text-color">For Every type business</span>
+					<h2 class="mt-2 text-white">Entrust Your Project to Our Best Team of Professionals</h2>
+				</div>
+				<div class="col-lg-4">
+					<a href="{{ 'contact-us' |page}}" class="btn btn-main btn-round-full float-right">Contact Us</a>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- Section CTA End -->";s:4:"code";N;s:5:"title";s:9:"Solutions";s:3:"url";s:10:"/solutions";s:6:"layout";s:10:"cms-layout";s:9:"is_hidden";s:1:"0";}}
