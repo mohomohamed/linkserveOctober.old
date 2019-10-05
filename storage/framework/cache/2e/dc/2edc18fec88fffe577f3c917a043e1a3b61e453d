@@ -1,4 +1,4 @@
-1569630500a:1:{s:19:"blog/categories.htm";a:6:{s:8:"fileName";s:19:"blog/categories.htm";s:7:"content";s:1521:";;
+1570225122a:1:{s:19:"blog/categories.htm";a:6:{s:8:"fileName";s:19:"blog/categories.htm";s:7:"content";s:1521:";;
 ==
 {##}
 {% set categories = blogCategories.categories %}

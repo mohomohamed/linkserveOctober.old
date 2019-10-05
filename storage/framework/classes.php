@@ -41,4 +41,5 @@
   'SerenityNow\\Subscribe\\Models\\Settings' => 'plugins/serenitynow/subscribe/models/Settings.php',
   'backend\\Controllers\\media' => 'modules/backend/controllers/media.php',
   'cms\\Controllers\\themelogs' => 'modules/cms/controllers/themelogs.php',
+  'backend\\Controllers\\users' => 'modules/backend/controllers/users.php',
 );

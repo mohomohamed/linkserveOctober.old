@@ -1,4 +1,4 @@
-1569631051a:1:{s:17:"blog/category.htm";a:13:{s:8:"fileName";s:17:"blog/category.htm";s:7:"content";s:790:"title = "Blog Category"
+1570225117a:1:{s:17:"blog/category.htm";a:13:{s:8:"fileName";s:17:"blog/category.htm";s:7:"content";s:790:"title = "Blog Category"
 url = "/blog/category/:slug"
 layout = "blog-layout"
 description = "Viewing blog posts in a specific category."
@@ -32,7 +32,7 @@ function onStart()
             {% partial 'blog/posts' %}
         </div>
     </div>
-</section>";s:5:"mtime";i:1569509220;s:6:"markup";s:179:"<section class="section blog-wrap bg-gray">
+</section>";s:5:"mtime";i:1570222789;s:6:"markup";s:179:"<section class="section blog-wrap bg-gray">
     <div class="container">
         <div class="row">
             {% partial 'blog/posts' %}
