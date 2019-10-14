@@ -1,4 +1,4 @@
-1570225117a:1:{s:10:"brands.htm";a:9:{s:8:"fileName";s:10:"brands.htm";s:7:"content";s:4482:"title = "Brands"
+1571040140a:1:{s:10:"brands.htm";a:9:{s:8:"fileName";s:10:"brands.htm";s:7:"content";s:7181:"title = "Brands"
 url = "/brands"
 layout = "cms-layout"
 is_hidden = 0
@@ -23,6 +23,143 @@ is_hidden = 0
 </section>
 <!-- Section Page Intro End -->
 
+
+
+
+<!-- section testing area -->
+
+<style>
+.brand__image .image__file {
+    display: block;
+    width: 70%;
+    border-radius: 50%;
+    box-shadow: 0 0.15rem 0.35rem rgba(0, 0, 0, 0.2);
+    margin-left:15%;
+
+}
+
+.formatted-text {
+    width: 150px;
+    max-width: 40rem;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.brand__headline {
+    flex-basis: 100%;
+    margin-bottom: 0.625rem;
+    color: #003da7;
+    font-weight: 600;
+    font-size: 14px;
+    font-size: 0.875rem;
+    line-height: 18px;
+    line-height: 1.125rem;
+}
+
+    .brand__description {
+    flex-basis: 100%;
+    font-size: 11px;
+    font-size: 0.6875rem;
+    line-height: 14px;
+    line-height: 0.875rem;
+
+}
+
+
+
+.brand__image {
+    margin-bottom: 0.625rem;
+    text-align:center;
+}
+
+figcaption, figure, main {
+    display: block;
+}
+
+figure {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: minmax(170px, 30%)  minmax(170px, 30%);
+    justify-content: space-evenly;
+  grid-gap: 2%;
+  padding: 10%;
+}
+
+.grid-container > div {
+  text-align: center;
+  padding: 5px 0;
+  font-size: 20px;
+}
+</style>
+
+
+<div class="grid-container">
+
+
+<!-- brandicon -->
+<div>
+<h4 class="brand__headline">Sophos</h4>
+
+<figure class="image brand__image">
+<img class="image__file" src="{{ 'assets/images/brands/sophos.png'|theme}}" alt="sophos logo">
+</figure>
+<p class="formatted-text  brand__description"><p>Data Security</p>
+</p>
+</div>
+<!-- end brandicon -->
+
+<!-- brandicon -->
+<div>
+<h4 class="brand__headline">Carbon Black</h4>
+
+<figure class="image brand__image">
+<img class="image__file" src="{{ 'assets/images/brands/carbonblack.png'|theme}}" alt="carbon black logo">
+</figure>
+<p class="formatted-text  brand__description"><p>Data Security</p>
+</p>
+</div>
+<!-- end brandicon -->
+
+<!-- brandicon -->
+<div>
+<h4 class="brand__headline">Kaspersky</h4>
+
+<figure class="image brand__image">
+<img class="image__file" src="{{ 'assets/images/brands/kaspersky.png'|theme}}" alt="kaspersky logo">
+</figure>
+<p class="formatted-text  brand__description"><p>Data Security</p>
+</p>
+</div>
+<!-- end brandicon -->
+
+
+<!-- brandicon -->
+<div>
+<h4 class="brand__headline">ESET</h4>
+
+<figure class="image brand__image">
+<img class="image__file" src="{{ 'assets/images/brands/eset.png'|theme}}" alt="ESET logo">
+</figure>
+<p class="formatted-text  brand__description"><p>Data Security</p>
+</p>
+</div>
+<!-- end brandicon -->
+
+
+
+
+</div>
+
+
+<!-- end section testing area -->
 <style>
 .brands{
     text-align:center;
@@ -118,8 +255,12 @@ is_hidden = 0
 
 
 
+
+
+
 </div>
-</section>";s:5:"mtime";i:1569625840;s:6:"markup";s:4410:"<!-- Section Page Ingro Start -->
+</section>
+";s:5:"mtime";i:1571039536;s:6:"markup";s:7107:"<!-- Section Page Ingro Start -->
 <section class="page-title bg-1">
   <div class="container">
     <div class="row">
@@ -139,6 +280,143 @@ is_hidden = 0
 </section>
 <!-- Section Page Intro End -->
 
+
+
+
+<!-- section testing area -->
+
+<style>
+.brand__image .image__file {
+    display: block;
+    width: 70%;
+    border-radius: 50%;
+    box-shadow: 0 0.15rem 0.35rem rgba(0, 0, 0, 0.2);
+    margin-left:15%;
+
+}
+
+.formatted-text {
+    width: 150px;
+    max-width: 40rem;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.brand__headline {
+    flex-basis: 100%;
+    margin-bottom: 0.625rem;
+    color: #003da7;
+    font-weight: 600;
+    font-size: 14px;
+    font-size: 0.875rem;
+    line-height: 18px;
+    line-height: 1.125rem;
+}
+
+    .brand__description {
+    flex-basis: 100%;
+    font-size: 11px;
+    font-size: 0.6875rem;
+    line-height: 14px;
+    line-height: 0.875rem;
+
+}
+
+
+
+.brand__image {
+    margin-bottom: 0.625rem;
+    text-align:center;
+}
+
+figcaption, figure, main {
+    display: block;
+}
+
+figure {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}
+
+
+.grid-container {
+  display: grid;
+  grid-template-columns: minmax(170px, 30%)  minmax(170px, 30%);
+    justify-content: space-evenly;
+  grid-gap: 2%;
+  padding: 10%;
+}
+
+.grid-container > div {
+  text-align: center;
+  padding: 5px 0;
+  font-size: 20px;
+}
+</style>
+
+
+<div class="grid-container">
+
+
+<!-- brandicon -->
+<div>
+<h4 class="brand__headline">Sophos</h4>
+
+<figure class="image brand__image">
+<img class="image__file" src="{{ 'assets/images/brands/sophos.png'|theme}}" alt="sophos logo">
+</figure>
+<p class="formatted-text  brand__description"><p>Data Security</p>
+</p>
+</div>
+<!-- end brandicon -->
+
+<!-- brandicon -->
+<div>
+<h4 class="brand__headline">Carbon Black</h4>
+
+<figure class="image brand__image">
+<img class="image__file" src="{{ 'assets/images/brands/carbonblack.png'|theme}}" alt="carbon black logo">
+</figure>
+<p class="formatted-text  brand__description"><p>Data Security</p>
+</p>
+</div>
+<!-- end brandicon -->
+
+<!-- brandicon -->
+<div>
+<h4 class="brand__headline">Kaspersky</h4>
+
+<figure class="image brand__image">
+<img class="image__file" src="{{ 'assets/images/brands/kaspersky.png'|theme}}" alt="kaspersky logo">
+</figure>
+<p class="formatted-text  brand__description"><p>Data Security</p>
+</p>
+</div>
+<!-- end brandicon -->
+
+
+<!-- brandicon -->
+<div>
+<h4 class="brand__headline">ESET</h4>
+
+<figure class="image brand__image">
+<img class="image__file" src="{{ 'assets/images/brands/eset.png'|theme}}" alt="ESET logo">
+</figure>
+<p class="formatted-text  brand__description"><p>Data Security</p>
+</p>
+</div>
+<!-- end brandicon -->
+
+
+
+
+</div>
+
+
+<!-- end section testing area -->
 <style>
 .brands{
     text-align:center;
@@ -230,6 +508,9 @@ is_hidden = 0
     width:150px;
   }
 </style>
+
+
+
 
 
 

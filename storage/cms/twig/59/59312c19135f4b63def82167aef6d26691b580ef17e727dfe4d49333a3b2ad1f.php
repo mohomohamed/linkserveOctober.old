@@ -48,22 +48,22 @@ class __TwigTemplate_8cc8df31ea1c18aeffef9c5004aa4b5d3db2abf855d486c062cbb481f2c
 \t\t\t<div class=\"col-lg-4 col-md-6 col-12\">
 \t\t\t\t<div class=\"intro-item mb-5 mb-lg-0\"> 
 \t\t\t\t\t<i class=\"ti-desktop color-one\"></i>
-\t\t\t\t\t<h4 class=\"mt-4 mb-3\">Modern & Responsive design</h4>
-\t\t\t\t\t<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus.</p>
+\t\t\t\t\t<h4 class=\"mt-4 mb-3\">Use Latest Technologies</h4>
+\t\t\t\t\t<p>We work with a vision to excel in your expectations, to give you an enterprise solutions that makes difference.</p>
 \t\t\t\t</div>
 \t\t\t</div>
 \t\t\t<div class=\"col-lg-4 col-md-6\">
 \t\t\t\t<div class=\"intro-item mb-5 mb-lg-0\">
 \t\t\t\t\t<i class=\"ti-medall color-one\"></i> 
-\t\t\t\t\t<h4 class=\"mt-4 mb-3\">Awarded licensed company</h4>
-\t\t\t\t\t<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus.</p>
+\t\t\t\t\t<h4 class=\"mt-4 mb-3\">Add Value to any Business</h4>
+\t\t\t\t\t<p>We Pledge to treat our Customer & Business partners honestly and professionally in this journey to deliver quality solutions.</p>
 \t\t\t\t</div>
 \t\t\t</div>
 \t\t\t<div class=\"col-lg-4 col-md-6\">
 \t\t\t\t<div class=\"intro-item\">
 \t\t\t\t\t<i class=\"ti-layers-alt color-one\"></i>
-\t\t\t\t\t<h4 class=\"mt-4 mb-3\">Build your website Professionally</h4>
-\t\t\t\t\t<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Odit, ducimus.</p>
+\t\t\t\t\t<h4 class=\"mt-4 mb-3\">Unmatched Resources in Technologies</h4>
+\t\t\t\t\t<p>Tech companies like us, understand crucial need of hand-holding during development process. We have dedicated resources to help you with your tech needs and solution consultation.</p>
 \t\t\t\t</div>
 \t\t\t</div> 
 \t\t</div>

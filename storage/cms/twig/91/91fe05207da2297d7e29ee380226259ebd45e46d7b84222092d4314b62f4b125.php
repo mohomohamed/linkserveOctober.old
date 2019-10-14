@@ -41,12 +41,12 @@ class __TwigTemplate_9884c534ecc34bff6a4ceb3c274c6944994ef924d1aabe29f1eda10e7d6
 \t\t\t<div class=\"col-lg-6 offset-lg-6 offset-md-0\">
 \t\t\t\t<div class=\"about-item \">
 \t\t\t\t\t<span class=\"h6 text-color\">What we are</span>
-\t\t\t\t\t<h2 class=\"mt-3 mb-4 position-relative content-title\">We are dynamic team of creative people</h2>
+\t\t\t\t\t<h2 class=\"mt-3 mb-4 position-relative content-title\">We are the perfect solution</h2>
 \t\t\t\t\t<div class=\"about-content\">
-\t\t\t\t\t\t<h4 class=\"mb-3 position-relative\">We are Perfect Solution</h4>
-\t\t\t\t\t\t<p class=\"mb-5\">We provide consulting services in the area of IFRS and management reporting, helping companies to reach their highest level. We optimize business processes, making them easier.</p>
+\t\t\t\t\t\t<h4 class=\"mb-3 position-relative\">Let us take advantage of technology and its capabilities to address much more important industrial needs.</h4>
+\t\t\t\t\t\t<p class=\"mb-5\">We provide consulting services in the area of IT auditing and management reporting, helping companies to reach their highest level. We optimize business processes, making them easier.</p>
 
-\t\t\t\t\t\t<a href=\"#\" class=\"btn btn-main btn-round-full\">Get started</a>
+\t\t\t\t\t\t<a href=\"#\" class=\"btn btn-main btn-round-full\">Learn more about Link Care</a>
 \t\t\t\t\t</div>
 \t\t\t\t</div>
 \t\t\t</div>
