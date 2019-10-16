@@ -1,4 +1,4 @@
-1571040140a:1:{s:10:"brands.htm";a:9:{s:8:"fileName";s:10:"brands.htm";s:7:"content";s:7181:"title = "Brands"
+1571236458a:1:{s:10:"brands.htm";a:9:{s:8:"fileName";s:10:"brands.htm";s:7:"content";s:11290:"title = "Brands"
 url = "/brands"
 layout = "cms-layout"
 is_hidden = 0
@@ -26,9 +26,15 @@ is_hidden = 0
 
 
 
-<!-- section testing area -->
+<!-- section testing 2.e -->
 
 <style>
+
+h4 {
+    text-align: center;
+}
+
+
 .brand__image .image__file {
     display: block;
     width: 70%;
@@ -100,63 +106,169 @@ figure {
 }
 </style>
 
+<!-- Antivirus Products -->
 
-<div class="grid-container">
+<section class="section service border-top">
+    <div class="container">
+		<div class="row justify-content-center">
+			<div class="col-lg-7 text-center">
+				<div class="section-title">
+					<span class="h6 text-color">Antivirus Products</span>
+					<h2 class="mt-3 content-title ">We provide a wide range of technological solutions </h2>
+				</div>
+			</div>
+		</div>
+		
+		<div class="row justify-content-center">
+		
+		<div class="col-lg-4 col-md-6 col-sm-6">
+		    <div class="service-item mb-5">
+             <figure class="image brand__image">
+                <img class="image__file" src="{{ 'assets/images/brands/kaspersky.png'|theme}}" alt="Kaspersky logo"></figure>
+                <h4 class="mb-3">Kaspersky</h4>
+		    </div>
+		</div> 
+		
+		<div class="col-lg-4 col-md-6 col-sm-6">
+		    <div class="service-item mb-5">
+             <figure class="image brand__image">
+                <img class="image__file" src="{{ 'assets/images/brands/sophos.png'|theme}}" alt="Sophos logo"></figure>
+                <h4 class="mb-3">Sophos</h4>
+		    </div>
+		</div> 
+		
+		<div class="col-lg-4 col-md-6 col-sm-6">
+		    <div class="service-item mb-5">
+             <figure class="image brand__image">
+                <img class="image__file" src="{{ 'assets/images/brands/eset.png'|theme}}" alt="Nod32 logo"></figure>
+                <h4 class="mb-3">ESET NOD32</h4>
+		    </div>
+		</div>
+		
+		<div class="col-lg-4 col-md-6 col-sm-6">
+		    <div class="service-item mb-5">
+             <figure class="image brand__image">
+                <img class="image__file" src="{{ 'assets/images/brands/carbonblack.png'|theme}}" alt="Carbon Black logo"></figure>
+                <h4 class="mb-3">Carbon Black</h4>
+		    </div>
+		</div> 
+		
+		<div class="col-lg-4 col-md-6 col-sm-6">
+		    <div class="service-item mb-5">
+             <figure class="image brand__image">
+                <img class="image__file" src="{{ 'assets/images/brands/mcafee.png'|theme}}" alt="McAfee logo"></figure>
+                <h4 class="mb-3">McAfee</h4>
+		    </div>
+		</div> 
+		
+		</div>
+	</div>
+</section>
 
+<!-- End Antivirus Products -->
 
-<!-- brandicon -->
-<div>
-<h4 class="brand__headline">Sophos</h4>
+<!-- Start Automation Solutions -->
 
-<figure class="image brand__image">
-<img class="image__file" src="{{ 'assets/images/brands/sophos.png'|theme}}" alt="sophos logo">
-</figure>
-<p class="formatted-text  brand__description"><p>Data Security</p>
-</p>
-</div>
-<!-- end brandicon -->
+<section class="section service border-top">
+    <div class="container">
+		<div class="row justify-content-center">
+			<div class="col-lg-7 text-center">
+				<div class="section-title">
+					<span class="h6 text-color">Automation Products</span>
+					<h2 class="mt-3 content-title ">We provide a wide range of technological solutions </h2>
+				</div>
+			</div>
+		</div>
+		
+		<div class="row justify-content-center">
+		
+		<div class="col-lg-4 col-md-6 col-sm-6">
+		    <div class="service-item mb-5">
+             <figure class="image brand__image">
+                <img class="image__file" src="{{ 'assets/images/brands/orvibo.png'|theme}}" alt="Orvibo logo"></figure>
+                <h4 class="mb-3">Orvibo</h4>
+		    </div>
+		</div> 
+		
+		<div class="col-lg-4 col-md-6 col-sm-6">
+		    <div class="service-item mb-5">
+             <figure class="image brand__image">
+                <img class="image__file" src="{{ 'assets/images/brands/sonoff.png'|theme}}" alt="Sonoff logo"></figure>
+                <h4 class="mb-3">Sonoff</h4>
+		    </div>
+		</div>
+		
+		</div>
+	</div>
+</section>
 
-<!-- brandicon -->
-<div>
-<h4 class="brand__headline">Carbon Black</h4>
+<!-- End Automation Solutions -->
 
-<figure class="image brand__image">
-<img class="image__file" src="{{ 'assets/images/brands/carbonblack.png'|theme}}" alt="carbon black logo">
-</figure>
-<p class="formatted-text  brand__description"><p>Data Security</p>
-</p>
-</div>
-<!-- end brandicon -->
+<!-- Start AV Solutions -->
 
-<!-- brandicon -->
-<div>
-<h4 class="brand__headline">Kaspersky</h4>
+<section class="section service border-top">
+    <div class="container">
+		<div class="row justify-content-center">
+			<div class="col-lg-7 text-center">
+				<div class="section-title">
+					<span class="h6 text-color">AV Products</span>
+					<h2 class="mt-3 content-title ">We provide a wide range of technological solutions </h2>
+				</div>
+			</div>
+		</div>
+		
+		<div class="row justify-content-center">
+		
+		<div class="col-lg-4 col-md-6 col-sm-6">
+		    <div class="service-item mb-5">
+             <figure class="image brand__image">
+                <img class="image__file" src="{{ 'assets/images/brands/Lumi.png'|theme}}" alt="Lumi logo"></figure>
+                <h4 class="mb-3">Lumi</h4>
+		    </div>
+		</div> 
+		
+		<div class="col-lg-4 col-md-6 col-sm-6">
+		    <div class="service-item mb-5">
+             <figure class="image brand__image">
+                <img class="image__file" src="{{ 'assets/images/brands/superior.png'|theme}}" alt="Superior logo"></figure>
+                <h4 class="mb-3">Superior</h4>
+		    </div>
+		</div>
+		
+		</div>
+	</div>
+</section>
 
-<figure class="image brand__image">
-<img class="image__file" src="{{ 'assets/images/brands/kaspersky.png'|theme}}" alt="kaspersky logo">
-</figure>
-<p class="formatted-text  brand__description"><p>Data Security</p>
-</p>
-</div>
-<!-- end brandicon -->
+<!-- End AV Solutions -->
 
+<!-- Start Computer & Parts -->
 
-<!-- brandicon -->
-<div>
-<h4 class="brand__headline">ESET</h4>
+<section class="section service border-top">
+    <div class="container">
+		<div class="row justify-content-center">
+			<div class="col-lg-7 text-center">
+				<div class="section-title">
+					<span class="h6 text-color">Computer and Parts Products</span>
+					<h2 class="mt-3 content-title ">We provide a wide range of technological solutions </h2>
+				</div>
+			</div>
+		</div>
+		
+		<div class="row justify-content-center">
+		
+		<div class="col-lg-4 col-md-6 col-sm-6">
+		    <div class="service-item mb-5">
+             <figure class="image brand__image">
+                <img class="image__file" src="{{ 'assets/images/brands/msi.png'|theme}}" alt="msi logo"></figure>
+                <h4 class="mb-3">MSI</h4>
+		    </div>
+		</div> 
+		
+		</div>
+	</div>
+</section>
 
-<figure class="image brand__image">
-<img class="image__file" src="{{ 'assets/images/brands/eset.png'|theme}}" alt="ESET logo">
-</figure>
-<p class="formatted-text  brand__description"><p>Data Security</p>
-</p>
-</div>
-<!-- end brandicon -->
-
-
-
-
-</div>
+<!-- End Computer & Parts -->
 
 
 <!-- end section testing area -->
@@ -259,8 +371,7 @@ figure {
 
 
 </div>
-</section>
-";s:5:"mtime";i:1571039536;s:6:"markup";s:7107:"<!-- Section Page Ingro Start -->
+</section>";s:5:"mtime";i:1571235857;s:6:"markup";s:11218:"<!-- Section Page Ingro Start -->
 <section class="page-title bg-1">
   <div class="container">
     <div class="row">
@@ -283,9 +394,15 @@ figure {
 
 
 
-<!-- section testing area -->
+<!-- section testing 2.e -->
 
 <style>
+
+h4 {
+    text-align: center;
+}
+
+
 .brand__image .image__file {
     display: block;
     width: 70%;
@@ -357,63 +474,169 @@ figure {
 }
 </style>
 
+<!-- Antivirus Products -->
 
-<div class="grid-container">
+<section class="section service border-top">
+    <div class="container">
+		<div class="row justify-content-center">
+			<div class="col-lg-7 text-center">
+				<div class="section-title">
+					<span class="h6 text-color">Antivirus Products</span>
+					<h2 class="mt-3 content-title ">We provide a wide range of technological solutions </h2>
+				</div>
+			</div>
+		</div>
+		
+		<div class="row justify-content-center">
+		
+		<div class="col-lg-4 col-md-6 col-sm-6">
+		    <div class="service-item mb-5">
+             <figure class="image brand__image">
+                <img class="image__file" src="{{ 'assets/images/brands/kaspersky.png'|theme}}" alt="Kaspersky logo"></figure>
+                <h4 class="mb-3">Kaspersky</h4>
+		    </div>
+		</div> 
+		
+		<div class="col-lg-4 col-md-6 col-sm-6">
+		    <div class="service-item mb-5">
+             <figure class="image brand__image">
+                <img class="image__file" src="{{ 'assets/images/brands/sophos.png'|theme}}" alt="Sophos logo"></figure>
+                <h4 class="mb-3">Sophos</h4>
+		    </div>
+		</div> 
+		
+		<div class="col-lg-4 col-md-6 col-sm-6">
+		    <div class="service-item mb-5">
+             <figure class="image brand__image">
+                <img class="image__file" src="{{ 'assets/images/brands/eset.png'|theme}}" alt="Nod32 logo"></figure>
+                <h4 class="mb-3">ESET NOD32</h4>
+		    </div>
+		</div>
+		
+		<div class="col-lg-4 col-md-6 col-sm-6">
+		    <div class="service-item mb-5">
+             <figure class="image brand__image">
+                <img class="image__file" src="{{ 'assets/images/brands/carbonblack.png'|theme}}" alt="Carbon Black logo"></figure>
+                <h4 class="mb-3">Carbon Black</h4>
+		    </div>
+		</div> 
+		
+		<div class="col-lg-4 col-md-6 col-sm-6">
+		    <div class="service-item mb-5">
+             <figure class="image brand__image">
+                <img class="image__file" src="{{ 'assets/images/brands/mcafee.png'|theme}}" alt="McAfee logo"></figure>
+                <h4 class="mb-3">McAfee</h4>
+		    </div>
+		</div> 
+		
+		</div>
+	</div>
+</section>
 
+<!-- End Antivirus Products -->
 
-<!-- brandicon -->
-<div>
-<h4 class="brand__headline">Sophos</h4>
+<!-- Start Automation Solutions -->
 
-<figure class="image brand__image">
-<img class="image__file" src="{{ 'assets/images/brands/sophos.png'|theme}}" alt="sophos logo">
-</figure>
-<p class="formatted-text  brand__description"><p>Data Security</p>
-</p>
-</div>
-<!-- end brandicon -->
+<section class="section service border-top">
+    <div class="container">
+		<div class="row justify-content-center">
+			<div class="col-lg-7 text-center">
+				<div class="section-title">
+					<span class="h6 text-color">Automation Products</span>
+					<h2 class="mt-3 content-title ">We provide a wide range of technological solutions </h2>
+				</div>
+			</div>
+		</div>
+		
+		<div class="row justify-content-center">
+		
+		<div class="col-lg-4 col-md-6 col-sm-6">
+		    <div class="service-item mb-5">
+             <figure class="image brand__image">
+                <img class="image__file" src="{{ 'assets/images/brands/orvibo.png'|theme}}" alt="Orvibo logo"></figure>
+                <h4 class="mb-3">Orvibo</h4>
+		    </div>
+		</div> 
+		
+		<div class="col-lg-4 col-md-6 col-sm-6">
+		    <div class="service-item mb-5">
+             <figure class="image brand__image">
+                <img class="image__file" src="{{ 'assets/images/brands/sonoff.png'|theme}}" alt="Sonoff logo"></figure>
+                <h4 class="mb-3">Sonoff</h4>
+		    </div>
+		</div>
+		
+		</div>
+	</div>
+</section>
 
-<!-- brandicon -->
-<div>
-<h4 class="brand__headline">Carbon Black</h4>
+<!-- End Automation Solutions -->
 
-<figure class="image brand__image">
-<img class="image__file" src="{{ 'assets/images/brands/carbonblack.png'|theme}}" alt="carbon black logo">
-</figure>
-<p class="formatted-text  brand__description"><p>Data Security</p>
-</p>
-</div>
-<!-- end brandicon -->
+<!-- Start AV Solutions -->
 
-<!-- brandicon -->
-<div>
-<h4 class="brand__headline">Kaspersky</h4>
+<section class="section service border-top">
+    <div class="container">
+		<div class="row justify-content-center">
+			<div class="col-lg-7 text-center">
+				<div class="section-title">
+					<span class="h6 text-color">AV Products</span>
+					<h2 class="mt-3 content-title ">We provide a wide range of technological solutions </h2>
+				</div>
+			</div>
+		</div>
+		
+		<div class="row justify-content-center">
+		
+		<div class="col-lg-4 col-md-6 col-sm-6">
+		    <div class="service-item mb-5">
+             <figure class="image brand__image">
+                <img class="image__file" src="{{ 'assets/images/brands/Lumi.png'|theme}}" alt="Lumi logo"></figure>
+                <h4 class="mb-3">Lumi</h4>
+		    </div>
+		</div> 
+		
+		<div class="col-lg-4 col-md-6 col-sm-6">
+		    <div class="service-item mb-5">
+             <figure class="image brand__image">
+                <img class="image__file" src="{{ 'assets/images/brands/superior.png'|theme}}" alt="Superior logo"></figure>
+                <h4 class="mb-3">Superior</h4>
+		    </div>
+		</div>
+		
+		</div>
+	</div>
+</section>
 
-<figure class="image brand__image">
-<img class="image__file" src="{{ 'assets/images/brands/kaspersky.png'|theme}}" alt="kaspersky logo">
-</figure>
-<p class="formatted-text  brand__description"><p>Data Security</p>
-</p>
-</div>
-<!-- end brandicon -->
+<!-- End AV Solutions -->
 
+<!-- Start Computer & Parts -->
 
-<!-- brandicon -->
-<div>
-<h4 class="brand__headline">ESET</h4>
+<section class="section service border-top">
+    <div class="container">
+		<div class="row justify-content-center">
+			<div class="col-lg-7 text-center">
+				<div class="section-title">
+					<span class="h6 text-color">Computer and Parts Products</span>
+					<h2 class="mt-3 content-title ">We provide a wide range of technological solutions </h2>
+				</div>
+			</div>
+		</div>
+		
+		<div class="row justify-content-center">
+		
+		<div class="col-lg-4 col-md-6 col-sm-6">
+		    <div class="service-item mb-5">
+             <figure class="image brand__image">
+                <img class="image__file" src="{{ 'assets/images/brands/msi.png'|theme}}" alt="msi logo"></figure>
+                <h4 class="mb-3">MSI</h4>
+		    </div>
+		</div> 
+		
+		</div>
+	</div>
+</section>
 
-<figure class="image brand__image">
-<img class="image__file" src="{{ 'assets/images/brands/eset.png'|theme}}" alt="ESET logo">
-</figure>
-<p class="formatted-text  brand__description"><p>Data Security</p>
-</p>
-</div>
-<!-- end brandicon -->
-
-
-
-
-</div>
+<!-- End Computer & Parts -->
 
 
 <!-- end section testing area -->
