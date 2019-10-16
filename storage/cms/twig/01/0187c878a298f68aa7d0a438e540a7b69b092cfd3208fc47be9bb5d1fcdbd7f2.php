@@ -334,6 +334,72 @@ figure {
 
 <!-- End Computer & Parts -->
 
+<!-- Start Battery Solutions -->
+
+<section class=\"section service border-top\">
+    <div class=\"container\">
+\t\t<div class=\"row justify-content-center\">
+\t\t\t<div class=\"col-lg-7 text-center\">
+\t\t\t\t<div class=\"section-title\">
+\t\t\t\t\t<span class=\"h6 text-color\">Battery Products</span>
+\t\t\t\t\t<h2 class=\"mt-3 content-title \">We provide a wide range of technological solutions </h2>
+\t\t\t\t</div>
+\t\t\t</div>
+\t\t</div>
+\t\t
+\t\t<div class=\"row justify-content-center\">
+\t\t
+\t\t<div class=\"col-lg-4 col-md-6 col-sm-6\">
+\t\t    <div class=\"service-item mb-5\">
+             <figure class=\"image brand__image\">
+                <img class=\"image__file\" src=\"";
+        // line 286
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/pkcell.png");
+        echo "\" alt=\"pkcell logo\"></figure>
+                <h4 class=\"mb-3\">PKCell</h4>
+\t\t    </div>
+\t\t</div> 
+\t\t
+\t\t</div>
+\t</div>
+</section>
+
+<!-- End Battery Solutions -->
+
+
+<!-- Start Data Solutions -->
+
+<section class=\"section service border-top\">
+    <div class=\"container\">
+\t\t<div class=\"row justify-content-center\">
+\t\t\t<div class=\"col-lg-7 text-center\">
+\t\t\t\t<div class=\"section-title\">
+\t\t\t\t\t<span class=\"h6 text-color\">Data Products</span>
+\t\t\t\t\t<h2 class=\"mt-3 content-title \">We provide a wide range of technological solutions </h2>
+\t\t\t\t</div>
+\t\t\t</div>
+\t\t</div>
+\t\t
+\t\t<div class=\"row justify-content-center\">
+\t\t
+\t\t<div class=\"col-lg-4 col-md-6 col-sm-6\">
+\t\t    <div class=\"service-item mb-5\">
+             <figure class=\"image brand__image\">
+                <img class=\"image__file\" src=\"";
+        // line 316
+        echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/adata.png");
+        echo "\" alt=\"adata logo\"></figure>
+                <h4 class=\"mb-3\">Adata</h4>
+\t\t    </div>
+\t\t</div> 
+\t\t
+\t\t</div>
+\t</div>
+</section>
+
+<!-- End Data Solutions -->
+
+
 
 <!-- end section testing area -->
 <style>
@@ -355,162 +421,162 @@ figure {
   <h2>Antivirus Solutions</h2>
   <br>
   <img src=\"";
-        // line 288
+        // line 348
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/sophos.png");
         echo "\" alt=\"\" id=\"brands\"><br><p></p>
   <img src=\"";
-        // line 289
+        // line 349
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/carbonblack.png");
         echo "\" alt=\"\" id=\"brands\"></br><p></p>
   <img src=\"";
-        // line 290
+        // line 350
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/kaspersky.png");
         echo "\" alt=\"\" id=\"brands\"></br><p></p>
   <img src=\"";
-        // line 291
+        // line 351
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/eset.png");
         echo "\" alt=\"\" id=\"brands\"></br><p></p>
   <img src=\"";
-        // line 292
+        // line 352
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/mcafee.png");
         echo "\" alt=\"\" id=\"brands\"><br><p></p>
 
   <h2>Firewall Solutions</h2>
     <br>
     <img src=\"";
-        // line 296
+        // line 356
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/cyberoam.png");
         echo "\" alt=\"\" id=\"brands\"><br><p></p>
     <img src=\"";
-        // line 297
+        // line 357
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/cyberoam.png");
         echo "\" alt=\"\" id=\"brands\"><br><p></p>
     <img src=\"";
-        // line 298
+        // line 358
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/checkpoint.png");
         echo "\" alt=\"\" id=\"brands\"><br><p></p>
     <img src=\"";
-        // line 299
+        // line 359
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/cisco.png");
         echo "\" alt=\"\" id=\"brands\"><br><p></p>
 
   <h2>Integrated Solutions</h2>
   <br>
   <img src=\"";
-        // line 303
+        // line 363
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/keplar.png");
         echo "\" alt=\"\" id=\"brands\"><br><p></p>
   <img src=\"";
-        // line 304
+        // line 364
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/cisco.png");
         echo "\" alt=\"\" id=\"brands\"><br><p></p>
   <img src=\"";
-        // line 305
+        // line 365
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/softqueue.png");
         echo "\" alt=\"\" id=\"brands\"><br><p></p>
 
   <h2>Switches</h2>
   <br>
   <img src=\"";
-        // line 309
+        // line 369
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/huawei.png");
         echo "\" alt=\"\" id=\"brands\"><br><p></p>
   <img src=\"";
-        // line 310
+        // line 370
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/hp.png");
         echo "\" alt=\"\" id=\"brands\"><br><p></p>
   <img src=\"";
-        // line 311
+        // line 371
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/cisco.png");
         echo "\" alt=\"\" id=\"brands\"><br><p></p>
 
   <h2>PABX Solutions</h2>
   <br>
   <img src=\"";
-        // line 315
+        // line 375
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/yeastar.png");
         echo "\" alt=\"\" id=\"brands\"><br><p></p>
   <img src=\"";
-        // line 316
+        // line 376
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/3cx.png");
         echo "\" alt=\"\" id=\"brands\"><br><p></p>
   <img src=\"";
-        // line 317
+        // line 377
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/polycom.png");
         echo "\" alt=\"\" id=\"brands\"><br><p></p>
 
   <h2>Uninterruptible Power</h2>
   <br>
   <img src=\"";
-        // line 321
+        // line 381
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/maruson.png");
         echo "\" alt=\"\" id=\"brands\"><br><p></p>
   <img src=\"";
-        // line 322
+        // line 382
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/apc.png");
         echo "\" alt=\"\" id=\"brands\"><br><p></p>
   <img src=\"";
-        // line 323
+        // line 383
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/emerson.png");
         echo "\" alt=\"\" id=\"brands\"><br><p></p>
 
   <h2>Security Solutions</h2>
   <br>
   <img src=\"";
-        // line 327
+        // line 387
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/hikvision.png");
         echo "\" alt=\"\" id=\"brands\"><br><p></p>
   <img src=\"";
-        // line 328
+        // line 388
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/axis.png");
         echo "\" alt=\"\" id=\"brands\"><br><p></p>
   <img src=\"";
-        // line 329
+        // line 389
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/pyronix.png");
         echo "\" alt=\"\" id=\"brands\"><br><p></p>
 
   <h2>Software Solutions</h2>
   <br>
   <img src=\"";
-        // line 333
+        // line 393
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/autodesk.png");
         echo "\" alt=\"\" id=\"brands\"><br><p></p>
   <img src=\"";
-        // line 334
+        // line 394
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/adobe.png");
         echo "\" alt=\"\" id=\"brands\"><br><p></p>
   <img src=\"";
-        // line 335
+        // line 395
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/corel.png");
         echo "\" alt=\"\" id=\"brands\"><br><p></p>
 
   <h2>Storage and Backup Solutions</h2>
   <br>
   <img src=\"";
-        // line 339
+        // line 399
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/commvault.png");
         echo "\" alt=\"\" id=\"brands\"><br><p></p>
   <img src=\"";
-        // line 340
+        // line 400
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/synology.png");
         echo "\" alt=\"\" id=\"brands\"><br><p></p>
   <img src=\"";
-        // line 341
+        // line 401
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/barracuda.png");
         echo "\" alt=\"\" id=\"brands\"><br><p></p>
   <img src=\"";
-        // line 342
+        // line 402
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/atempo.png");
         echo "\" alt=\"\" id=\"brands\"><br><p></p>
 
   <h2>Wireless Networking Solutions</h2>
   <br>
   <img src=\"";
-        // line 346
+        // line 406
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/ruckus.png");
         echo "\" alt=\"\" id=\"brands\"><br><p></p>
   <img src=\"";
-        // line 347
+        // line 407
         echo $this->extensions['Cms\Twig\Extension']->themeFilter("assets/images/brands/ruckus.png");
         echo "\" alt=\"\" id=\"brands\"><br><p></p>
 
@@ -549,7 +615,7 @@ figure {
 
     public function getDebugInfo()
     {
-        return array (  514 => 347,  510 => 346,  503 => 342,  499 => 341,  495 => 340,  491 => 339,  484 => 335,  480 => 334,  476 => 333,  469 => 329,  465 => 328,  461 => 327,  454 => 323,  450 => 322,  446 => 321,  439 => 317,  435 => 316,  431 => 315,  424 => 311,  420 => 310,  416 => 309,  409 => 305,  405 => 304,  401 => 303,  394 => 299,  390 => 298,  386 => 297,  382 => 296,  375 => 292,  371 => 291,  367 => 290,  363 => 289,  359 => 288,  325 => 257,  293 => 228,  282 => 220,  250 => 191,  239 => 183,  207 => 154,  196 => 146,  185 => 138,  174 => 130,  163 => 122,  48 => 10,  37 => 1,);
+        return array (  580 => 407,  576 => 406,  569 => 402,  565 => 401,  561 => 400,  557 => 399,  550 => 395,  546 => 394,  542 => 393,  535 => 389,  531 => 388,  527 => 387,  520 => 383,  516 => 382,  512 => 381,  505 => 377,  501 => 376,  497 => 375,  490 => 371,  486 => 370,  482 => 369,  475 => 365,  471 => 364,  467 => 363,  460 => 359,  456 => 358,  452 => 357,  448 => 356,  441 => 352,  437 => 351,  433 => 350,  429 => 349,  425 => 348,  390 => 316,  357 => 286,  325 => 257,  293 => 228,  282 => 220,  250 => 191,  239 => 183,  207 => 154,  196 => 146,  185 => 138,  174 => 130,  163 => 122,  48 => 10,  37 => 1,);
     }
 
     public function getSourceContext()
